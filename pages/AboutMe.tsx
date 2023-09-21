@@ -25,7 +25,7 @@ const AboutMe = () => {
         <p className='text-gray-700 text-lg mb-6'>
           Feel free to explore some of my past projects in the Projects section to get a glimpse of my capabilities.
         </p>
-        <button className='bg-gradient-to-r from-green-500 to-teal-300 text-white px-4 py-4 mt-2 border-none rounded-md'>Contact Me</button>
+        <button className='bg-gradient-to-r from-green-500 to-teal-300 text-white px-4 py-4 mt-2 border-none rounded-md'><a href={"#contact"}>Contact Me</a></button>
       </div>
 
       {/* Right side (Skills) */}
