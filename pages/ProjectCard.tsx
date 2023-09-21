@@ -43,8 +43,11 @@ const ProjectCard : React.FC<ProjectCardProps> = ({
               </button>
             ))}
           </div>
-            <button className='bg-gradient-to-r from-green-500 to-teal-300 text-white px-4 py-4 mt-2 border-none rounded-md'>Live Demo</button>
+            <button className='bg-gradient-to-r from-green-500 to-teal-300 text-white px-4 py-4 mt-2 border-none rounded-md'>
+            <a href={liveDemoLink} className="text-white">Live Demo</a>
+            </button>            
             <button className='ml-6 bg-gradient-to-r from-teal-300 to-green-500 text-white px-4 py-4 mt-2 border-none rounded-md'>Source Code</button>
+            <a href={sourceCodeLink} className="text-white"></a>
         </div>
       </div>
     </div>           
