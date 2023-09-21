@@ -1,5 +1,5 @@
+"use client";
 import React from 'react'
-import {BsMoonStarsFill} from "react-icons/bs"
 const Navbar = () => {
   return (
     <nav className='py-10 mb-12 flex justify-between'>

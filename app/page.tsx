@@ -1,8 +1,8 @@
 import Navbar from '@/components/Navbar'
-import HomePage from '@/pages/HomePage'
-import AboutMe from '@/pages/AboutMe'
-import Projects from '@/pages/Projects'
-import ContactMe from '@/pages/ContactMe'
+import HomePage from '@/components/HomePage'
+import AboutMe from '@/components/AboutMe'
+import Projects from '@/components/Projects'
+import ContactMe from '@/components/ContactMe'
 
 export default function Home() {
   return (

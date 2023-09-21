@@ -1,3 +1,4 @@
+"use client";
 import React from 'react'
 
 const ContactMe = () => {
@@ -6,16 +7,16 @@ const ContactMe = () => {
   <div className="container mx-auto text-center">
     <h3 className="text-2xl font-semibold mb-4 border-b-2 border-green-500 pb-2">Contact</h3>
     <p className="font-medium text-lg mb-8">
-      Feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections!
+      Feel free to reach out to me via email or LinkedIn. I am always open to new opportunities and connections!
     </p>
     <div className="flex flex-col md:flex-row space-y-6 md:space-x-6">
       {/* Left side (Get in touch) */}
       <div className="md:w-1/2  p-6 rounded-lg ">
         <h1 className="font-extrabold text-xl mb-6">Get in Touch</h1>
         <p className="text-gray-700 text-lg mb-4">
-          I'm currently looking for <span className="font-bold">full-time software engineering positions</span>.
+          I am currently looking for <span className="font-bold">full-time software engineering positions</span>.
           <br />
-          If you have an exciting opportunity or just want to connect, please don't hesitate to get in touch with me!
+          If you have an exciting opportunity or just want to connect, please dont hesitate to get in touch with me!
         </p>
       </div>
       {/* Right side (Contact form) */}

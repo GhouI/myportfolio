@@ -14,13 +14,13 @@ const AboutMe = () => {
       <div className='md:w-1/2 bg-white p-6 rounded-lg shadow-md'>
         <h1 className='font-extrabold text-xl mb-6'>Get to know me!</h1>
         <p className='text-gray-700 text-lg mb-4'>
-          I'm a <span className='font-bold'>Junior Full Stack Developer</span> specializing in <span className='font-bold'>web application development and software engineering</span>.
+          I am a <span className='font-bold'>Junior Full Stack Developer</span> specializing in <span className='font-bold'>web application development and software engineering</span>.
         </p>
         <p className='text-gray-700 text-lg mb-4'>
           I have a passion for contributing to <span className='font-bold'>large-scale projects</span> and creating meaningful impacts through my work.
         </p>
         <p className='text-gray-700 text-lg mb-4'>
-          In the realm of web development, I've honed my skills in <span className='font-bold'>both frontend and backend technologies</span>, allowing me to craft comprehensive applications that are both user-friendly and robust.
+          In the realm of web development, I have honed my skills in <span className='font-bold'>both frontend and backend technologies</span>, allowing me to craft comprehensive applications that are both user-friendly and robust.
         </p>
         <p className='text-gray-700 text-lg mb-6'>
           Feel free to explore some of my past projects in the Projects section to get a glimpse of my capabilities.
