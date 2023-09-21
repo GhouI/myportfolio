@@ -1,6 +1,6 @@
 import React from 'react'
 
-const SecondPage = () => {
+const AboutMe = () => {
   return (
 <div className='bg-gray-50 h-full py-5'>
   <div className='container mx-auto text-center'>
@@ -77,4 +77,4 @@ const SecondPage = () => {
   )
 }
 
-export default SecondPage
+export default AboutMe

@@ -2,7 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 import ProfilePhoto from "/public/PF.png"
 import {AiFillLinkedin, AiFillGithub} from 'react-icons/ai'
-const FirstPage = () => {
+const HomePage = () => {
   return (
     <div>
                 <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-40 h-50">
@@ -25,4 +25,4 @@ and a strong commitment to continuous learning and growth in the ever-evolving f
   )
 }
 
-export default FirstPage
+export default HomePage
