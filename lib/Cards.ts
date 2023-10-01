@@ -3,7 +3,7 @@ import DiscordThumb from "@/public/discord-thumb.webp"
 import YoutubeThumb from "@/public/youtube-thumb.webp"
 import PokemonThumb from "@/public/pokemon.jpg"
 import FantasyThumb from "@/public/fantasy.jpg"
-import JobTrackerThumb from "@/public/JobTracker.jpg"
+import JobTrackerThumb from "@/public/JobTracker.jfif"
 type ProjectCard = {
     title: string
     description: string
