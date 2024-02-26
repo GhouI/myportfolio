@@ -3,6 +3,7 @@ import DiscordThumb from "@/public/discord-thumb.webp"
 import YoutubeThumb from "@/public/youtube-thumb.webp"
 import PokemonThumb from "@/public/pokemon.jpg"
 import FantasyThumb from "@/public/fantasy.jpg"
+import ETicketThumb from "@/public/ETicket.png"
 import JobTrackerThumb from "@/public/JobTracker.jpg"
 type ProjectCard = {
     title: string
@@ -58,6 +59,17 @@ const Cards : ProjectCard[] = [
         altText: "Job Tracker Project",
         liveDemoLink: "https://www.github.com/GhouI/Job-Tracker",
         sourceCodeLink: "https://www.github.com/GhouI/Job-Tracker",
+        heightOfImage: FixedHeightOfImage,
+        widthOfImage: FixedWidthOfImage
+    },
+    {
+        title :  "E-Tickets",
+        description: "E-Tickets allow you to view tickets for recent movies, explore information about the actors, and make ticket purchases.",
+        technologies: ["C#", "ASP.NET", "MySQL"],
+        imageSrc: ETicketThumb,
+        altText: "E Ticket Project",
+        liveDemoLink: "https://www.github.com/GhouI/ETickets",
+        sourceCodeLink: "https://www.github.com/GhouI/ETickets",
         heightOfImage: FixedHeightOfImage,
         widthOfImage: FixedWidthOfImage
     }
