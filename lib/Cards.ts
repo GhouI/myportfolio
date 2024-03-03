@@ -40,28 +40,7 @@ const Cards : ProjectCard[] = [
         sourceCodeLink: "https://github.com/GhouI/youtube-video-automation",
         heightOfImage: FixedHeightOfImage,
         widthOfImage: FixedWidthOfImage
-    },    
-    {
-        title: "Pokemon Battle System",
-        description: "Pokemon Battle System is a game where you can battle against other players. It is a turn-based game where you can choose your moves and attack your opponent.",
-        technologies: ["C#", "ASP.NET", "MySQL", "JavaScript"],
-        imageSrc: PokemonThumb,
-        altText: "Pokemon Project",
-        liveDemoLink: "https://www.pokemon.com",
-        sourceCodeLink: "https://github.com/GhouI/Pokemon-Battle-System",
-        heightOfImage: FixedHeightOfImage,
-        widthOfImage: FixedWidthOfImage
-    },{
-        title :  "Job-Tracker",
-        description: "Job-Tracker is a web application that allows you to track your job applications. It is a simple application that allows you to keep track of your job applications.",
-        technologies: ["C#", "ASP.NET", "MySQL", "JavaScript"],
-        imageSrc: JobTrackerThumb,
-        altText: "Job Tracker Project",
-        liveDemoLink: "https://www.github.com/GhouI/Job-Tracker",
-        sourceCodeLink: "https://www.github.com/GhouI/Job-Tracker",
-        heightOfImage: FixedHeightOfImage,
-        widthOfImage: FixedWidthOfImage
-    },
+    }, 
     {
         title :  "E-Tickets",
         description: "E-Tickets allow you to view tickets for recent movies, explore information about the actors, and make ticket purchases.",
