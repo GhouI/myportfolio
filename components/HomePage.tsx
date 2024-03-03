@@ -17,7 +17,7 @@ const HomePage = () => {
           and a strong commitment to continuous learning and growth in the ever-evolving field of technology.
         </p>
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-          <a href="https://linkedin.com/a/aalian"><AiFillLinkedin /></a>
+          <a href="https://www.linkedin.com/in/aalian/"><AiFillLinkedin /></a>
           <a href="https://github.com/Ghoui"><AiFillGithub /></a>
         </div>
 
